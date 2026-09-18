@@ -1,1 +1,2 @@
 101,Parth Singh,CSE,3
+102,Rahul Kumar,CSE ,3
